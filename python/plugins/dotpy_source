@@ -46,7 +46,6 @@ CCTV13拉伸 1080,http://yd-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 浙江好易购 1080,http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
 浙江好易购 1080,http://yd-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 浙江好易购 1080,http://yd-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
-
 CCTV2 7M1080,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV3 Max4.5M1080,http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV4 8M1080,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -167,7 +166,6 @@ CGTN 576,http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.l
 江苏优漫卡通 576,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖南金鹰卡通 576,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江留学世界 576,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
 CCTV4K 35M2160,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
 百视通4K 22M2160,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/1/index.m3u8?fmt=ts2hls
 SiTV欢笑剧场 15M2160,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
