@@ -10,7 +10,7 @@ import os
 from plugins import base
 # from plugins import lista
 # from plugins import listb
-# from plugins import dotpy
+from plugins import dotpy
 
 class Iptv (object):
 
@@ -26,8 +26,8 @@ class Iptv (object):
         Base = base.Source()
         Base.getSource()
 
-        # Dotpy = dotpy.Source()
-        # Dotpy.getSource()
+        Dotpy = dotpy.Source()
+        Dotpy.getSource()
 
         #listB = listb.Source()
         #listB.getSource()
@@ -68,7 +68,7 @@ class Iptv (object):
 
     def outJson (self) :
         self.T.logger("正在生成Json文件")
-        
+
         sql = """SELECT * FROM
             (SELECT * FROM %s WHERE online = 1 ORDER BY delay DESC) AS delay
             GROUP BY LOWER(delay.title)
@@ -108,8 +108,3 @@ class Iptv (object):
 if __name__ == '__main__':
     obj = Iptv()
     obj.run()
-
-
-
-
-
