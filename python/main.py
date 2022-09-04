@@ -34,7 +34,7 @@ class Main (object):
             return send_from_directory(resourcePath, 'tv.m3u')
 
         @web.route('/tv.m3u')
-        def m3u8():
+        def tvm3u8():
             return send_from_directory(resourcePath, 'tv.m3u')
 
         @web.route('/json')
@@ -42,7 +42,7 @@ class Main (object):
             return send_from_directory(resourcePath, 'tv.json')
 
         @web.route('/tv.json')
-        def json():
+        def tvjson():
             return send_from_directory(resourcePath, 'tv.json')
 
         @web.route('/log')
