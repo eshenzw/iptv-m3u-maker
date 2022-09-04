@@ -33,7 +33,15 @@ class Main (object):
         def m3u8():
             return send_from_directory(resourcePath, 'tv.m3u')
 
+        @web.route('/tv.m3u')
+        def m3u8():
+            return send_from_directory(resourcePath, 'tv.m3u')
+
         @web.route('/json')
+        def json():
+            return send_from_directory(resourcePath, 'tv.json')
+
+        @web.route('/tv.json')
         def json():
             return send_from_directory(resourcePath, 'tv.json')
 
@@ -43,8 +51,8 @@ class Main (object):
 
         web.run(
             host = '0.0.0.0',
-            port = 9527,  
-            debug = False 
+            port = 9527,
+            debug = False
         )
 
     def run (self):
@@ -64,4 +72,3 @@ class Main (object):
 if __name__ == '__main__':
     App = Main()
     App.run()
-
