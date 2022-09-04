@@ -16,7 +16,7 @@ class Source (object) :
     def getSource (self) :
         urlList = []
 
-        url = 'https://iptv-org.github.io/iptv/countries/cn.m3u'
+        url = 'https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4-cn.m3u'
         req = [
             'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36',
         ]
@@ -25,7 +25,7 @@ class Source (object) :
         if res['code'] == 200 :
             # pattern = re.compile(r"<code(.*?)</code>", re.I|re.S)
             # tmp = pattern.findall(res['body'])
-            
+
             tmp = res['body']
 
             pattern = re.compile(r"#EXTINF:-1(.*?)\n(.*?)\n", re.I|re.S)
@@ -50,7 +50,7 @@ class Source (object) :
 
     def detectData (self, title, url) :
         info = self.T.fmtTitle(title)
-        
+
         netstat = self.T.chkPlayable(url)
 
         if netstat > 0 :
@@ -65,7 +65,7 @@ class Source (object) :
                 'online' : 1,
                 'udTime' : self.now,
             }
-            
+
             self.addData(data)
             self.T.logger('正在分析[ %s ]: %s' % (str(info['id']) + str(info['title']), url))
         else :
