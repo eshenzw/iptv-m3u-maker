@@ -122,3 +122,11 @@ class DataBase (object) :
         if tableStat == False :
             self.create()
 
+    def deleteTable(self) :
+        sql = "delete from " + self.table;
+
+        try:
+            self.cur.execute(sql)
+            self.conn.commit()
+        except:
+            pass

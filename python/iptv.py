@@ -19,8 +19,10 @@ class Iptv (object):
         self.DB = db.DataBase()
 
     def run(self) :
-        self.T.logger("开始抓取", True)
+        self.T.logger("清除历史数据", True)
+        self.DB.deleteTable()
 
+        self.T.logger("开始抓取", True)
         self.DB.chkTable()
 
         self.T.logger("抓取 cooltv ...")
