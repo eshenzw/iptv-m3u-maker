@@ -4,11 +4,12 @@
 from flask import Flask, redirect, url_for, send_from_directory
 import threading
 
+import tools
 import iptv
 
 class Main (object):
     def __init__ (self) :
-        pass
+        self.T = tools.Tools()
 
     def scan (self):
         Crawler = iptv.Iptv()
@@ -24,6 +25,7 @@ class Main (object):
 
         @web.route('/run')
         def run():
+            self.T.logger("开始重新抓取", True)
             thread = threading.Thread(target = self.scan, args = (), daemon = True)
             thread.start()
 
@@ -49,6 +51,7 @@ class Main (object):
         def log():
             return send_from_directory(resourcePath, 'log.txt')
 
+        self.T.logger("listen on port: 9527", True)
         web.run(
             host = '0.0.0.0',
             port = 9527,
@@ -62,6 +65,7 @@ class Main (object):
         thread.start()
         threads.append(thread)
 
+        self.T.logger("开始抓取", True)
         thread = threading.Thread(target = self.scan, args = (), daemon = True)
         thread.start()
         threads.append(thread)

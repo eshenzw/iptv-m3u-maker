@@ -19,10 +19,8 @@ class Iptv (object):
         self.DB = db.DataBase()
 
     def run(self) :
-        self.T.logger("清除历史数据", True)
+        self.T.logger("初始化数据表")
         self.DB.deleteTable()
-
-        self.T.logger("开始抓取", True)
         self.DB.chkTable()
 
         self.T.logger("抓取 cooltv ...")
@@ -116,4 +114,5 @@ class Iptv (object):
 
 if __name__ == '__main__':
     obj = Iptv()
+    obj.T.logger("开始重新抓取 by Crontab", True)
     obj.run()
