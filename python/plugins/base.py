@@ -16,7 +16,8 @@ class Source (object) :
     def getSource (self) :
         urlList = []
 
-        url = 'https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4-cn.m3u'
+        url = 'http://live.cooltv.top/tv.php'
+        
         req = [
             'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36',
         ]

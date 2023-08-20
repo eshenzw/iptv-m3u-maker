@@ -8,8 +8,8 @@ import re
 import json
 import os
 from plugins import base
-# from plugins import lista
-# from plugins import listb
+from plugins import lista
+from plugins import listb
 from plugins import dotpy
 
 class Iptv (object):
@@ -23,14 +23,21 @@ class Iptv (object):
 
         self.DB.chkTable()
 
+        self.T.logger("抓取 cooltv ...")
         Base = base.Source()
         Base.getSource()
 
+        self.T.logger("抓取 cctv ...")
+        listA = lista.Source()
+        listA.getSource()
+
+        self.T.logger("抓取 自定义 ...")
         Dotpy = dotpy.Source()
         Dotpy.getSource()
 
-        #listB = listb.Source()
-        #listB.getSource()
+        self.T.logger("抓取 http://m.iptv807.com/ ...")
+        listB = listb.Source()
+        listB.getSource()
 
         self.outPut()
         self.outJson()
