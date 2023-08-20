@@ -9,7 +9,7 @@ import json
 import os
 from plugins import base
 from plugins import lista
-from plugins import listb
+# from plugins import listb
 from plugins import dotpy
 
 class Iptv (object):
@@ -35,9 +35,9 @@ class Iptv (object):
         Dotpy = dotpy.Source()
         Dotpy.getSource()
 
-        self.T.logger("抓取 http://m.iptv807.com/ ...")
-        listB = listb.Source()
-        listB.getSource()
+        # self.T.logger("抓取 http://m.iptv807.com/ ...")
+        # listB = listb.Source()
+        # listB.getSource()
 
         self.outPut()
         self.outJson()
