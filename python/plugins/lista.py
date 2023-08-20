@@ -4,6 +4,8 @@
 import tools
 import time
 import re
+import db
+import threading
 
 class Source (object) :
 
@@ -14,43 +16,69 @@ class Source (object) :
     def getSource (self) :
         urlList = []
 
-        url = 'https://github.com/billy21/Tvlist-awesome-m3u-m3u8/blob/master/list.md'
+        url = 'https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u'
         req = [
             'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36',
         ]
         res = self.T.getPage(url, req)
-
+        # print(res['code'])
         if res['code'] == 200 :
-            pattern = re.compile(r"<article(.*?)</article>", re.I|re.S)
-            tmp = pattern.findall(res['body'])
+            # pattern = re.compile(r"<code(.*?)</code>", re.I|re.S)
+            # tmp = pattern.findall(res['body'])
 
-            pattern = re.compile(r"</svg></a>(.*?)</h.*?href=\"(.*?)\"", re.I|re.S)
-            sourceList = pattern.findall(tmp[0])
+            tmp = res['body']
 
-            i = 1
-            total = len(sourceList)
+            pattern = re.compile(r"#EXTINF:-1(.*?)\n(.*?)\n", re.I|re.S)
+
+            # sourceList = pattern.findall(tmp[0])
+            # sourceList = sourceList + pattern.findall(tmp[1])
+            sourceList = pattern.findall(tmp);
+
+            threads = []
             for item in sourceList :
-                info = self.T.fmtTitle(item[0])
-                self.T.logger('正在分析[ %s / %s ]: %s' % (i, total, str(info['id']) + str(info['title'])))
-
-                netstat = self.T.chkPlayable(item[1])
-                i = i + 1
-                if netstat > 0 :
-                    cros = 1 if self.T.chkCros(item[1]) else 0
-                    data = {
-                        'title'  : str(info['id']) if info['id'] != '' else str(info['title']),
-                        'url'    : str(item[1]),
-                        'quality': str(info['quality']),
-                        'delay'  : netstat,
-                        'cros'   : cros,
-                        'level'  : info['level'],
-                        'online' : 1,
-                        'udTime' : self.now,
-                    }
-                    urlList.append(data)
-                else :
-                    pass # MAYBE later :P
+                print(item[0])
+                print(item[1])
+                thread = threading.Thread(target = self.detectData, args = (item[0], item[1], ), daemon = True)
+                thread.start()
+                threads.append(thread)
+            for t in threads:
+                t.join()
         else :
             pass # MAYBE later :P
 
         return urlList
+
+    def detectData (self, title, url) :
+        info = self.T.fmtTitle(title)
+
+        netstat = self.T.chkPlayable(url)
+
+        if netstat > 0 :
+            cros = 1 if self.T.chkCros(url) else 0
+            data = {
+                'title'  : str(info['id']) if info['id'] != '' else str(info['title']),
+                'url'    : str(url),
+                'quality': str(info['quality']),
+                'delay'  : netstat,
+                'level'  : str(info['level']),
+                'cros'   : cros,
+                'online' : 1,
+                'udTime' : self.now,
+            }
+
+            self.addData(data)
+            self.T.logger('正在分析[ %s ]: %s' % (str(info['id']) + str(info['title']), url))
+        else :
+            pass # MAYBE later :P
+
+    def addData (self, data) :
+        DB = db.DataBase()
+        sql = "SELECT * FROM %s WHERE url = '%s'" % (DB.table, data['url'])
+        result = DB.query(sql)
+
+        if len(result) == 0 :
+            data['enable'] = 1
+            DB.insert(data)
+        else :
+            id = result[0][0]
+            DB.edit(id, data)

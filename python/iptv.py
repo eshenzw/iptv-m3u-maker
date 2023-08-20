@@ -8,7 +8,11 @@ import re
 import json
 import os
 from plugins import base
+<<<<<<< Updated upstream
 # from plugins import lista
+=======
+from plugins import lista
+>>>>>>> Stashed changes
 from plugins import listb
 from plugins import dotpy
 
@@ -23,12 +27,22 @@ class Iptv (object):
 
         self.DB.chkTable()
 
+        self.T.logger("抓取 cooltv ...")
         Base = base.Source()
         Base.getSource()
 
+        self.T.logger("抓取 cctv ...")
+        listA = lista.Source()
+        listA.getSource()
+
+        self.T.logger("抓取 自定义 ...")
         Dotpy = dotpy.Source()
         Dotpy.getSource()
 
+<<<<<<< Updated upstream
+=======
+        self.T.logger("抓取 http://m.iptv807.com/ ...")
+>>>>>>> Stashed changes
         listB = listb.Source()
         listB.getSource()
 
