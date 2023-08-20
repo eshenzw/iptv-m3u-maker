@@ -130,3 +130,7 @@ class DataBase (object) :
             self.conn.commit()
         except:
             pass
+
+if __name__ == '__main__':
+    obj = DataBase()
+    print(obj.dbAddress)

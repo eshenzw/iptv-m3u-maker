@@ -3,46 +3,6 @@
 http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
 #EXTINF:-1, group-title="中央频道", CCTV-13
 http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv16" tvg-logo="cctv16.png",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctvjilu" tvg-logo="cctvjilu.png",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/bqkj.png" group-title="数字",CCTV兵器科技
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/dyjc.png" group-title="数字",CCTV第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyjc.png" group-title="数字",CCTV风云剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/fyyy.png" group-title="数字",CCTV风云音乐
@@ -67,10 +27,8 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?
 #EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
-#EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?
-#EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
+#EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001309/index.m3u8?
 #EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
 #EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
@@ -89,116 +47,44 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001248/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
 #EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
+#EXTINF:-1, group-title="中央频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://live.cooltv.top/tv/aishang.php?id=cctv5p
 #EXTINF:-1, group-title="地方频道", 浙江卫视 1080
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江国际 1080
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江少儿 1080
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江钱江 1080
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江好易购 1080
-http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江公共新闻 1080
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江教科影视 1080
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江数码时代 1080
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江民生休闲 1080
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江经济生活 1080
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="btv1" tvg-logo="btv1.png",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="etv" tvg-logo="etv.png",山东教育电视台
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="hebei" tvg-logo="hebei.png",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="henan" tvg-logo="henan.png",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="jilin" tvg-logo="jilin.png",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="travel" tvg-logo="travel.png",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="shan3xi" tvg-logo="shan3xi.png",陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="shandong" tvg-logo="shandong.png",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏城市
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏影视
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8?icpid=3&RTS=1669269129&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏教育
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8?icpid=3&RTS=1669269433&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="地方",重庆新闻
-http://live.cooltv.top/tv/cqtv.php?id=3
-#EXTINF:-1, group-title="地方频道", tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/gd.png" group-title="卫视",广东卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/qs.png" group-title="地方",青海都市
-http://stream.qhbtv.com/qhds/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ss.png" group-title="地方",上海都市
+http://live.cooltv.top/tv/bestv.php?id=18
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/btv.png" group-title="卫视",北京卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ahws.png" group-title="卫视",安徽卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001037/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cqws.png" group-title="卫视",重庆卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbds.png" group-title="地方",河北都市
-https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbnm.png" group-title="地方",河北农民
-https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hngg.png" group-title="地方",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hnjj.png" group-title="地方",海南自贸
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hnse.png" group-title="地方",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hnwl.png" group-title="地方",海南文旅
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hnws.png" group-title="卫视",海南卫视
@@ -209,32 +95,24 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/ind
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/lnws.png" group-title="卫视",辽宁卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000367/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sckj.png" group-title="地方",四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ynds.png" group-title="地方",云南都市
-http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/yngj.png" group-title="地方",云南国际
-http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ynse.png" group-title="地方",云南少儿
-http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ynws.png" group-title="卫视",云南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ah2.png" group-title="地方",安徽经济生活
+http://live.cooltv.top/tv/anhui.php?id=ahjjsh
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jilin.png" group-title="卫视",吉林卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001225/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/shxws.png" group-title="卫视",陕西卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001067/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbysj.png" group-title="地方",河北影视剧
-https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jyws.png" group-title="卫视",山东教育卫视
 http://live.cooltv.top/tv/aishang.php?id=sdjy
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/shxw.png" group-title="地方",上海新闻综合
 http://live.cooltv.top/tv/bestv.php?id=20
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sxyspd.png" group-title="地方",山西影视
-http://live.cooltv.top/tv/tide.php?id=sxys
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbjjsh.png" group-title="地方",河北经济生活
-https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbsekj.png" group-title="地方",河北少儿科教
-https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/btvcj.png" group-title="电视伴音",北京财经
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/btvsh.png" group-title="电视伴音",北京生活
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/btvys.png" group-title="电视伴音",北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/btvjskj.png" group-title="卫视",北京纪实科教
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001231/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
@@ -243,6 +121,8 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001027/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001068/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sxshyfz.png" group-title="地方",山西社会与法治
 http://live.cooltv.top/tv/tide.php?id=sxshfz
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/btvtyxx.png" group-title="电视伴音",北京体育休闲
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/gansuweishi.png" group-title="卫视",甘肃卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hebeiweishi.png" group-title="卫视",河北卫视
@@ -253,8 +133,6 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001222/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001065/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/guizhouweishi.png" group-title="卫视",贵州卫视
@@ -263,64 +141,48 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001184/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001036/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/shandongweishi.png" group-title="卫视",山东卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001028/index.m3u8?
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/zhejiangweishi.png" group-title="卫视",浙江卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上海外语
 http://live.cooltv.top/tv/bestv.php?id=17
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001031/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南昌新闻综合
+http://live.cooltv.top/tv/nctv.php?id=1
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播",万州综合广播
 http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sz6.png" group-title="地方",苏州4k
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dfws.png" group-title="卫视",东方卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001013/index.m3u8?
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jzzh.png" group-title="地方",晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/shys.png" group-title="地方",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8? 
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/yqkj.png" group-title="地方",阳泉科教
-https://live.yqrtv.com/xwchne/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/xmws.png" group-title="卫视",厦门卫视
+http://live.cooltv.top/tv/aishang.php?id=xmws
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jzggpd.png" group-title="地方",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/shenzhen.png" group-title="卫视",深圳卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001030/index.m3u8?
-#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/yqxwzh.png" group-title="地方",阳泉新闻综合
-https://live.yqrtv.com/xwpd/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="cetv1" tvg-logo="cetv1.png",CETV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="cetv2" tvg-logo="cetv2.png",CETV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="btvjishi" tvg-logo="btvjishi.png",BTV纪实
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1, group-title="地方频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播",台北爱乐Oldies but Goodies
+http://live.cooltv.top/tv/e-classical.php?id=goodies
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
+http://live.cooltv.top/tv/aishang.php?id=as4k
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="" group-title="境外",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="" group-title="境外",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bt.png" group-title="卫视",兵团卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001066/index.m3u8?
-#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dz.png" group-title="数字",点掌财经
-https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jj.png" group-title="卫视",嘉佳卡通
 http://live.cooltv.top/tv/aishang.php?id=jjkt
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/xd.png" group-title="卫视",哈哈炫动
+http://live.cooltv.top/tv/bestv.php?id=19
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/31.png" group-title="境外",RTHK31
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/32.png" group-title="境外",RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dmxc.png" group-title="数字",动漫秀场
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dycj.png" group-title="地方",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hxjc.png" group-title="数字",欢笑剧场
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jsxt.png" group-title="数字",金色学堂
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/jyjs.png" group-title="卫视",金鹰纪实
@@ -331,12 +193,10 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001098/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/ssws.png" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/yxfy.png" group-title="数字",游戏风云
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/bestv.png" group-title="数字",百视TV
+http://live.cooltv.top/tv/bestv.php?id=27
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cetv2.png" group-title="卫视",CETV2
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001226/index.m3u8?
-#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/chcgq.png" group-title="数字",CHC电影
-http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/kk.png" group-title="卫视",BRTV卡酷少儿
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/shwxty.png" group-title="地方",五星体育
@@ -345,35 +205,17 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/dongnan.png" group-title="卫视",东南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
-#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/sitvdsjc.png" group-title="数字",都市剧场
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/chcjt.png" group-title="数字",CHC家庭影院
+http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/weather.png" group-title="数字",中国气象频道
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001102/index.m3u8?
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cetv4.png" group-title="卫视",CETV-4空中课堂
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001218/index.m3u8?
-#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cetv4.png" group-title="电视伴音",CETV-4空中课堂
-https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+#EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
+http://live.cooltv.top/tv/bestv.php?id=28
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
 http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="境外",Bloomberg TV+
 http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1, group-title="其他频道", tvg-id="" tvg-name="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="境外",NHK World
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播",萤火虫网络台
-http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="境外",Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/hks.png" group-title="境外",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/开州之声.png" group-title="综合广播",开州之声
-http://183.64.174.171:10124/tlgb.m3u8
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/中国华艺广播.png" group-title="综合广播",中国华艺广播
-http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kShwWmQjbq.jpg" group-title="境外广播",n p r | WUNC
-http://216.246.39.189/wunc-source
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/台湾古典音乐台.png" group-title="境外广播",台湾古典音乐台
-http://59.120.88.155:8000/live.mp3
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/云南经济广播.png" group-title="综合广播",云南经济广播·私家车电台
-http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
-#EXTINF:-1, group-title="广播频道", tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声闽南语广播.png" group-title="综合广播",海峡之声·闽南话广播
-http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8

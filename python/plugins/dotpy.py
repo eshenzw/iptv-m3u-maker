@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import os
 import tools
 import time
 import re
@@ -15,7 +16,8 @@ class Source (object) :
         self.now = int(time.time() * 1000)
 
     def getSource (self) :
-        sourcePath = './plugins/dotpy_source'
+        sourcePath = os.path.dirname(os.path.abspath(__file__))
+        sourcePath += '/dotpy_source'
         with open(sourcePath, 'r') as f:
             lines = f.readlines()
             total = len(lines)

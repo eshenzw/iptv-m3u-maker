@@ -50,7 +50,7 @@ class Iptv (object):
         sql = """SELECT * FROM
             (SELECT * FROM %s WHERE online = 1 ORDER BY delay DESC) AS delay
             GROUP BY LOWER(delay.title)
-            HAVING delay.title != '' and delay.title != 'CCTV-' AND delay.delay < 600
+            HAVING delay.title != '' and delay.title != 'CCTV-' AND delay.level != 7 AND delay.delay < 1000
             ORDER BY level ASC, length(title) ASC, title ASC
             """ % (self.DB.table)
         result = self.DB.query(sql)
@@ -79,7 +79,7 @@ class Iptv (object):
         sql = """SELECT * FROM
             (SELECT * FROM %s WHERE online = 1 ORDER BY delay DESC) AS delay
             GROUP BY LOWER(delay.title)
-            HAVING delay.title != '' and delay.title != 'CCTV-' AND delay.delay < 600
+            HAVING delay.title != '' and delay.title != 'CCTV-' AND delay.level != 7 AND delay.delay < 1000
             ORDER BY level ASC, length(title) ASC, title ASC
             """ % (self.DB.table)
         result = self.DB.query(sql)
