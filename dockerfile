@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.13.3
 ADD ./crontask /etc/cron.d/crontask
 WORKDIR /srv
 RUN pip install -U Flask \
